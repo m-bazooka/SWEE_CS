@@ -1,0 +1,15 @@
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\bin\Debug\net6.0\MyUni.exe
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\bin\Debug\net6.0\MyUni.deps.json
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\bin\Debug\net6.0\MyUni.runtimeconfig.json
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\bin\Debug\net6.0\MyUni.dll
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\bin\Debug\net6.0\MyUni.pdb
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.csproj.AssemblyReference.cache
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.AssemblyInfoInputs.cache
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.AssemblyInfo.cs
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.csproj.CoreCompileInputs.cache
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.dll
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\refint\MyUni.dll
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.pdb
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\MyUni.genruntimeconfig.cache
+C:\Users\mhmda\Downloads\TUM-Software Engineering Essentials\github\OOP1\code\OOP1\MyUni\obj\Debug\net6.0\ref\MyUni.dll

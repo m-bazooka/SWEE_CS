@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OOP1/.vs/OOP1/v17/.suo
+/OOP1/MyUni/bin/Debug/net6.0/MyUni.dll
+/OOP1/MyUni/bin/Debug/net6.0/MyUni.pdb
+/OOP1/MyUni/obj/Debug/net6.0/ref/MyUni.dll
+/OOP1/MyUni/obj/Debug/net6.0/refint/MyUni.dll
+/OOP1/MyUni/obj/Debug/net6.0/MyUni.csproj.CoreCompileInputs.cache
+/OOP1/MyUni/obj/Debug/net6.0/MyUni.dll
+/OOP1/MyUni/obj/Debug/net6.0/MyUni.pdb
